@@ -11,7 +11,7 @@ Spatiotemporal data, which captures how variables evolve across space and time, 
 
 ## Hands-on Demo
 1. Tutorial on causal inference using I.I.D data (code)
-2. Tutorial on causal inference using time-series data (code)
+2. Tutorial on causal inference using time-series data (code)[https://github.com/SaharaAli16/spatiotemporal-causality/blob/main/stcausal2024/hands-on-demo/Causal_Inference_Timeseries.ipynb]
 3. Tutorial on causal inference using spatiotemporal data (code)
 
 ## References
