@@ -15,3 +15,8 @@ Spatiotemporal data, which captures how variables evolve across space and time, 
 3. Tutorial on causal inference using spatiotemporal data [code](https://github.com/SaharaAli16/spatiotemporal-causality/blob/main/stcausal2024/hands-on-demo/Causal_Inference_Spatiotemporal.ipynb)
 
 ## References
+1. Ali, S., Faruque, O., Huang, Y., Gani, M. O., Subramanian, A., Schlegel, N. J., & Wang, J. (2023, December). Quantifying causes of arctic amplification via deep learning based time-series causal inference. In 2023 International Conference on Machine Learning and Applications (ICMLA) (pp. 689-696). IEEE.
+2. Lim, B. (2018). Forecasting treatment responses over time using recurrent marginal structural networks. Advances in neural information processing systems, 31.
+3. Ali, S., Faruque, O., & Wang, J. (2024, August). Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 213-230). Cham: Springer Nature Switzerland.
+## Contact (Q&A)
+For any questions, feel free to email sahara.ali@unt.edu
